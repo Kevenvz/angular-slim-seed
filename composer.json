@@ -1,0 +1,10 @@
+{
+    "config": {
+        "vendor-dir": "app/vendor"
+    },
+    "require": {
+        "slim/slim": "^2.6",
+        "gabordemooij/redbean": "^4.2",
+        "slim/logger": "^0.1.0"
+    }
+}
